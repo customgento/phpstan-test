@@ -1,0 +1,11 @@
+{
+    "name": "customgento/module-phpstan",
+    "type": "magento2-module",
+    "license": "proprietary",
+    "version": "1.0.6",
+    "autoload": {
+        "psr-4": {
+            "CustomGento\\Phpstan\\": ""
+        }
+    }
+}
